@@ -3,7 +3,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "konglor-sandbox"
     workspaces {
-      name = "konglor-hashicat"
+      name = "hashicat-azure"
     }
   }
 }
